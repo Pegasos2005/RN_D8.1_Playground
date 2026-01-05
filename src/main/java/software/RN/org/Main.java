@@ -1,5 +1,8 @@
 package software.RN.org;
 
+import software.RN.org.io.ManifoldReader;
+import software.RN.org.model.Box;
+import software.RN.org.model.Edge;
 import software.RN.org.service.CircuitManager;
 
 import java.nio.file.Path;
